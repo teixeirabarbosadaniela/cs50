@@ -27,6 +27,15 @@ a.out
 build/
 dist/
 
+# Ignorar executáveis sem extensão
+*.out
+*.exe
+*.bin
+
+# Ignorar executáveis criados por compilação
+hello-world
+linguagemc
+
 # =========================
 # Sistema
 # =========================
