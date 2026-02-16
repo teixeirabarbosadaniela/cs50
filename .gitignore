@@ -33,8 +33,11 @@ dist/
 *.bin
 
 # Ignorar executáveis criados por compilação
-hello-world
-linguagemc
+week1/hello-world
+week1/linguagemc
+
+# Pastas de editor
+.vscode/
 
 # =========================
 # Sistema
