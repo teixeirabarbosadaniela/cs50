@@ -9,40 +9,17 @@
 a.out
 *.out
 
-# Bibliotecas compiladas
-*.so
-*.so.*
-*.dll
-*.dylib
+# Executáveis CS50
+week*/hello*
+week*/linguagem*
 
-# Arquivos de debug
-*.dSYM/
-*.su
+# Pastas de editor
+.vscode/
 
 # Arquivos temporários
 *~
 *.swp
 
-# Pastas de build
-build/
-dist/
-
-# Ignorar executáveis sem extensão
-*.out
-*.exe
-*.bin
-
-# Ignorar executáveis criados por compilação
-week1/hello-world
-week1/linguagemc
-
-# Pastas de editor
-.vscode/
-
-# =========================
-# Sistema
-# =========================
-
+# Arquivos de sistema
 .DS_Store
 Thumbs.db
-
