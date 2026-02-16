@@ -51,8 +51,9 @@ Cada pasta contém exercícios e projetos correspondentes à respectiva semana d
 
 - [x] Week 1 (em andamento)
     Acesse aqui? https://youtu.be/SlqjA04_dpk?si=3TVC880OREQ8bFaS
+      A bigorna do nada (25:30);
     
-      https://manual.cs50.io/#stdio.h
+     Aqui Malan nos apresenta a linguagem C do modo mais amigável possível. Nesta pasta há o arquivo contendo as atividades propostas, incluindo diversos comentários que julguei pertinente adicionar. Acho importante me familiarizar com o significado de cada palavra reservada no programa.
       
 - [ ] Week 2
 - [ ] Week 3

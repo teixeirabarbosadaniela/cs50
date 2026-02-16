@@ -21,5 +21,15 @@ clear (limpar)
 pwd (print working directory → mostrar o caminho da pasta atual
 touch (criar arquivo vazio)
 code (abrir VSCode na pasta/arquivo atual)
+
+
+------------
+/*
+no terminal: nano .gitignore
+
+CTRL + O
+ENTER
+CTRL + X
+
 */
 //compilar: gcc linux.c -lcs50 -o linux
