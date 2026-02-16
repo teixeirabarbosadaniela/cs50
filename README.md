@@ -15,7 +15,7 @@ cs50/
  ├── week2/
 ```
 
-Cada pasta contém os exercícios e projetos correspondentes à respectiva semana do curso.
+Cada pasta contém exercícios e projetos correspondentes à respectiva semana do curso.
 
 ---
 
@@ -37,9 +37,9 @@ Cada pasta contém os exercícios e projetos correspondentes à respectiva seman
 
 ---
 
-## 📈 Progresso
+## Progresso
 
-- [x] Week 0 (https://youtu.be/UuIEbpQms8o?si=uRn4-2LctrRsmz82)
+- [x] Week 0 (https://youtu.be/UuIEbpQms8o?si=uRn4-2LctrRsmz82)/n
       Nessa introdução, David Malan constrói as bases do que vem a ser pensamento computacional. Apresenta os conceitos iniciais do sistema binário (bits e bytes), sua representações convencionadas (texto (ASCII, entre outros sistemas), sons (partituras), imagens (pixels e cores).
       Para tornar mais tangível os conceitos por traz da construção de um algorítmo em quaisquer linguagem (Variáveis, Condições, Loops, Funções, etc) ele utiliza o programa Scratch.
 
@@ -48,7 +48,7 @@ Cada pasta contém os exercícios e projetos correspondentes à respectiva seman
   Minha preferência neste momento é aplicar esses fundamentos diretamente em linguagens como C, Python e C++, onde consigo explorar os mesmos princípios com maior profundidade técnica.
   Ainda assim, reconheço o papel importante do Scratch na construção do pensamento computacional, especialmente para iniciantes.
 
-- [x] Week 1 (em andamento: https://youtu.be/SlqjA04_dpk?si=3TVC880OREQ8bFaS) 
+- [x] Week 1 (em andamento: https://youtu.be/SlqjA04_dpk?si=3TVC880OREQ8bFaS)/n 
       https://manual.cs50.io/#stdio.h
 - [ ] Week 2
 - [ ] Week 3
@@ -59,9 +59,5 @@ Cada pasta contém os exercícios e projetos correspondentes à respectiva seman
 - [ ] Week 8
 - [ ] Week 9
 
----
 
-## Sobre mim
-
-Estudante de Engenharia de Computação em construção.
 
