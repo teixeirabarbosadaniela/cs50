@@ -1,1 +1,36 @@
+# =========================
+# Compilação C
+# =========================
+
+# Arquivos objeto
+*.o
+
+# Arquivos compilados padrão
+a.out
+*.out
+
+# Bibliotecas compiladas
+*.so
+*.so.*
+*.dll
+*.dylib
+
+# Arquivos de debug
+*.dSYM/
+*.su
+
+# Arquivos temporários
+*~
+*.swp
+
+# Pastas de build
+build/
+dist/
+
+# =========================
+# Sistema
+# =========================
+
+.DS_Store
+Thumbs.db
 
