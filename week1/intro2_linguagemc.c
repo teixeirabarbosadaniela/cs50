@@ -34,3 +34,5 @@ int main (void)
 
     - Uma vez compilado com sucesso, F5 ou tasks do VSCode podem funcionar se o build estiver configurado com "-lcs50".
 */
+
+//compilar: gcc intro2_linguagemc.c -lcs50 -o intro2_linguagemc

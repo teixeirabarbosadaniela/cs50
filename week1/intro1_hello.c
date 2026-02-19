@@ -18,3 +18,5 @@ int main(void)
 };
 
 //Ctrl + F5 "run"
+
+// compilar: gcc intro1_hello.c -lcs50 -o intro1_hello

@@ -29,4 +29,4 @@ ENTER
 CTRL + X
 
 */
-//compilar: gcc linux.c -lcs50 -o linux
+//compilar: gcc linux_funcionalidades.c -lcs50 -o linux_funcionalidades
