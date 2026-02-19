@@ -5,21 +5,32 @@
 # Arquivos objeto
 *.o
 
-# Arquivos compilados padrão
+# Executáveis padrão
 a.out
 *.out
+*.exe
 
-# Executáveis CS50
-week*/hello*
-week*/linguagem*
+# =========================
+# Ignorar executáveis Linux sem extensão
+# (arquivos executáveis gerados pelo gcc)
+# =========================
 
-# Pastas de editor
+# Ignorar tudo dentro das weeks
+week*/*
+
+# Permitir arquivos fonte C
+!week*/*.c
+
+# Permitir README se houver dentro das weeks
+!week*/*.md
+
+# =========================
+# Editor / Sistema
+# =========================
+
 .vscode/
-
-# Arquivos temporários
 *~
 *.swp
-
-# Arquivos de sistema
 .DS_Store
 Thumbs.db
+
