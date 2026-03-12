@@ -1,0 +1,36 @@
+# =========================
+# Compilação C
+# =========================
+
+# Arquivos objeto
+*.o
+
+# Executáveis padrão
+a.out
+*.out
+*.exe
+
+# =========================
+# Ignorar executáveis Linux sem extensão
+# (arquivos executáveis gerados pelo gcc)
+# =========================
+
+# Ignorar tudo dentro das weeks
+week*/*
+
+# Permitir arquivos fonte C
+!week*/*.c
+
+# Permitir README se houver dentro das weeks
+!week*/*.md
+
+# =========================
+# Editor / Sistema
+# =========================
+
+.vscode/
+*~
+*.swp
+.DS_Store
+Thumbs.db
+
